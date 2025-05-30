@@ -1,4 +1,5 @@
 # Atividade 7 - Programação 3
 
 
-Ainda em desenvolvimento
+Descrição: Aplicativo de Previsão do Tempo com consumo de API.
+Status: Em desenvolvimento.
